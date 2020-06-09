@@ -1,2 +1,3 @@
-application.message=Hellow World
-application.name=parkdongcheul
+application:
+  message: Hello World
+  Name: Parkdongcheul

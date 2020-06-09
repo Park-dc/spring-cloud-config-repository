@@ -1,5 +1,1 @@
-parkdongcheul:
-  profile: real_pro
-  said:
-    first: Hello
-    second: world
+application.message=Hellow World
